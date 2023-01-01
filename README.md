@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning 'BackEnd / NMT'
 - 💞️ I’m looking to collaborate on 'NMT'
 - 📫 How to reach me 'mjchoi0831@gmail.com'
+- 🙋‍♀️ Hire me 'https://www.linkedin.com/in/min-joo-choi-9a013818b/'
 
 <!---
 Judy-Choi/Judy-Choi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
