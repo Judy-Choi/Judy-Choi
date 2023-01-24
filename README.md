@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Judy-Choi)](https://github.com/anuraghazra/github-readme-stats) \
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Judy-Choi)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Judy-Choi
 - 👀 I’m interested in 'NLP (NMT)'
