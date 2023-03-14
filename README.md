@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Judy-Choi
 - 👀 I’m interested in 'NLP (NMT)'
-- 🌱 I’m currently learning 'BackEnd / NMT'
+- 🌱 I’m currently learning 'NLP', 'BackEnd'
 - 💞️ I’m looking to collaborate on 'NLP'
 - 💌 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mjchoi0831@gmail.com)](mailto:mjchoi0831@gmail.com)
 - 👩‍💻 Welcome to my [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@judy_choi)](https://velog.io/@judy_choi)
